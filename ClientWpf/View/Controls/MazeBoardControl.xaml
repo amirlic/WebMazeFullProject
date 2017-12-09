@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ClientWpf.View.Controls.MazeBoardControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ClientWpf.View.Controls"
+             mc:Ignorable="d" 
+             Loaded="myCanvas_Loaded"
+             d:DesignHeight="600" d:DesignWidth="600">
+    <Viewbox>
+        <Border BorderBrush="Black" BorderThickness="3">
+            <Canvas x:Name="myCanvas" Width="600" Height="600" Loaded="myCanvas_Loaded">
+                <Button x:Name="resGame" Content="Restart Game" Canvas.Left="10" Canvas.Top="10" Width="80"/>
+                <Button x:Name="solMaze" Content="Solve Maze" Canvas.Left="273" Canvas.Top="10" Width="80" RenderTransformOrigin="0.728,0.472"/>
+                <Button x:Name="mainMenu" Content="Main Menu" Canvas.Right="50" Canvas.Top="10" Width="80" Canvas.Left="520"/>
+            </Canvas>
+        </Border>
+    </Viewbox>
+</UserControl>

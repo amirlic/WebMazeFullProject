@@ -1,0 +1,30 @@
+﻿<Window x:Class="ClientWpf.View.MultiPlayerMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWpf.View"
+         xmlns:controls="clr-namespace:ClientWpf.View.Controls"
+        mc:Ignorable="d"
+        Title="MultiPlayerMenu" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="260"/>
+            <RowDefinition Height="Auto" MinHeight="1"/>
+            <RowDefinition Height="Auto" MinHeight="8"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Padding="3" Margin="10,10,3,226" RenderTransformOrigin="0.476,0.562">List Of Games:</TextBlock>
+        <ComboBox x:Name="ListOfGames" Grid.ColumnSpan="1" Padding="3" Margin="24,10,25,212" Grid.Column="1"
+            SelectedIndex="{Binding Games}" IsEditable="False" SelectionChanged="ListOfGames_SelectionChanged">
+        </ComboBox>
+        <controls:MenuUserControl Margin="0,120,0,0" Grid.ColumnSpan="2" Loaded="MenuUserControl_Loaded">
+
+        </controls:MenuUserControl>
+        <Button x:Name="btnMultiStart" HorizontalAlignment="Center" Click="btnStart_Click"  Margin="10,231,116,1" Padding="5" Grid.Column="1">Start Game</Button>
+        <Button x:Name="JoinButton" Content="Join" Grid.Column="1" HorizontalAlignment="Left" Margin="61,73,0,0" VerticalAlignment="Top" Width="75" Height="26"/>
+    </Grid>
+</Window>

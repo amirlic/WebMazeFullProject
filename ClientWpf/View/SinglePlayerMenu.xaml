@@ -1,0 +1,15 @@
+﻿<Window x:Class="ClientWpf.View.SinglePlayerMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="V"
+        xmlns:controls="clr-namespace:ClientWpf.View.Controls"
+        mc:Ignorable="d"
+        Title="SinglePlayerMenu" Height="300" Width="300">
+    <Grid>
+        <controls:MenuUserControl>
+        </controls:MenuUserControl>
+        <Button x:Name="btnSingleStart" HorizontalAlignment="Center" Click="btnStart_Click"  Margin="105,123,117,109" Padding="5">Start Game</Button>
+    </Grid>
+</Window>
