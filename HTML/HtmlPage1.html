@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Product App</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="scripts/register.js"></script>
+	
+	
+</head>
+
+<body onload="listPlayers()">
+	
+	<div>
+		<h2>All Players</h2>
+		<ul id="lstPlayers"></ul>
+	</div>
+	<div>
+		<h2>Search by Name</h2>
+		<input type="text" id="txtProductID" size="5" />
+		<input type="button" id="btnSearch" value="Search" onclick="getPlayer()"/>
+		<p id="product" />
+	</div>
+	<div>
+		<h2>Add Product</h2>
+		<table>
+			<tr>
+				<td>UserName: </td>
+				<td><input type="text" id="UserName" size="5" /></td>
+			</tr>
+			<tr>
+				<td>Password: </td>
+				<td><input type="text" id="Pass" /></td>
+			</tr>
+			<tr>
+				<td>Verify Password: </td>
+				<td><input type="text" id="Verify" /></td>
+			</tr>
+			<tr>
+				<td>Email: </td>
+				<td><input type="text" id="Mail" /></td>
+			</tr>
+            <tr>
+                <td>
+                    <p id="err"></p>
+                </td>
+            </tr>
+		</table>
+		<input type="button" id="btnAddPlayer" value="Add Player" onclick="checkPass()" />
+	</div>
+	
+</body>
+</html>

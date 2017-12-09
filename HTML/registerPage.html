@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+    <meta charset="utf-8" />
+    <link href="../Styles/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div id="navbar">
+        <script src="../scripts/jquery-3.2.1.js"></script>
+        <script src="../scripts/bootstrap.js"></script>
+        <script src="../scripts/navbar.js"></script>
+    </div>
+
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Register</h1>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <form id="registerForm" class="form-group">
+    <div class="form-group form-inline">
+         <label for="User" class="col-sm-3 text-right">Username</label>
+         <input type="text" name="User" class="form-control" id="User" placeholder="Username">
+     </div>
+
+     <div class="form-group form-inline">
+         <label for="Pass" class="col-sm-3 text-right">Password</label>
+         <input type="password" name="Pass" class="form-control" id="Pass" placeholder="Password">
+     </div>
+
+     <div class="form-group form-inline">
+         <label for="verifiedPassword" class="col-sm-3 text-right">verifiedPassword</label>
+         <input type="password" name="verifiedPassword" class="form-control" id="verifiedPassword" placeholder="verifiedPassword">
+     </div>
+
+     <div class="form-group form-inline">
+         <label for="Email" class="col-sm-3 text-right">Email</label>
+         <input type="email" name="Email" class="form-control" id="Email" placeholder="Email">
+     </div>
+
+        <button class="btn btn-default col-sm-offset-3 col-lg-1 col-md-1" id="Login">Login</button>
+     </form>
+
+    <script src="../scripts/registerScript.js"></script>
+    <script src="../scripts/jquery.validate.js"></script>
+
+
+</body>
+</html>
