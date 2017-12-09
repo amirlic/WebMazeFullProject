@@ -1,0 +1,265 @@
+commit 70f48d69dcaf9a02cbd8bedd5d814674e2e142aa
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 16:27:53 2017 +0300
+
+    fix setting
+
+commit d4d2c2c30ed6c9845d14699e209b89752cb14c79
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 14:58:18 2017 +0300
+
+    Revert "Revert "a""
+    
+    This reverts commit fefd37aea8c922495ccccbaca67ce99dfd51f95b.
+
+commit fefd37aea8c922495ccccbaca67ce99dfd51f95b
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 14:57:43 2017 +0300
+
+    Revert "a"
+    
+    This reverts commit 97fb18a816041c890dbbd2baea3bfe75fa8b2548.
+
+commit 73199b42b34535f7e46c0178bbfd10812238eec4
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 14:57:06 2017 +0300
+
+    Revert "a"
+    
+    This reverts commit 6a76f8dd0419c173ef21be1157c071404c227182.
+
+commit cca2a83499f185b555cea13ae1ec59a667603488
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 14:56:36 2017 +0300
+
+    Revert "a"
+    
+    This reverts commit 97fb18a816041c890dbbd2baea3bfe75fa8b2548.
+
+commit 97fb18a816041c890dbbd2baea3bfe75fa8b2548
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 14:53:08 2017 +0300
+
+    a
+
+commit 6a76f8dd0419c173ef21be1157c071404c227182
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun May 28 14:37:07 2017 +0300
+
+    a
+
+commit 04c9e50e0d1f6b865b739bdc69e77bba69c12255
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Fri May 26 17:27:03 2017 +0300
+
+    little update
+
+commit dfdce34631b7df4c63933ba0b7281a66942ab082
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Fri May 26 17:05:02 2017 +0300
+
+    a sum of bugs but i try fix them
+
+commit 24267d4da7f8adf2f109682ed1ee55e6ed3b671f
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu May 25 23:23:32 2017 +0300
+
+    update
+
+commit 93ceead1f10ed359f6e89527c5d58847bb20a80d
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu May 25 22:55:23 2017 +0300
+
+    move function
+
+commit abd7452d994b440f6a5123574988c0372072c09d
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu May 25 16:54:30 2017 +0300
+
+    fix
+
+commit e1b16d8e1f41ea018ffbc6fa919e692b6fe85399
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu May 25 16:47:27 2017 +0300
+
+    lest bug
+
+commit 7cc9ecd9235f42ff622acf4e733d70efbcb2bc7e
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu May 25 15:52:35 2017 +0300
+
+    delete IsingleModel interfase
+
+commit 396665fb70df1b243050fe37460fc37c1300c81e
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed May 24 17:15:08 2017 +0300
+
+    bug fix new print maze
+
+commit ab2d6a120e1b4a9359524d75ce625fc51eb1e663
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed May 24 15:07:11 2017 +0300
+
+    you need print the maze
+
+commit 117c4c969acd33c6bf91675863f2375a83c540c5
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed May 24 13:03:12 2017 +0300
+
+    fix the connect now do the maze craete
+
+commit d970d788b7eb1e0afa6f91ea441f0b478d49bbf4
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Tue May 23 18:23:16 2017 +0300
+
+    do the maze xaml
+
+commit 2658e942bb713d64ad8b6f15a5807517e23fa64e
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Tue May 23 15:59:06 2017 +0300
+
+    maze
+
+commit 57bcb5cbbcaeef4047ef26ca9dd143e7b02423a2
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Mon May 22 19:27:29 2017 +0300
+
+    start  of maze but with error
+
+commit b3418673341064db207eac191be5de62c9269b45
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Mon May 22 16:14:39 2017 +0300
+
+    update all clasess and more vm
+
+commit a19fafebf6b482844fd1cf51f0fac922d65fbe2f
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Fri May 19 13:57:46 2017 +0300
+
+    menu logic
+
+commit ca94111f242f6cf1bba5509899038b946f7f88b0
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Fri May 5 18:38:57 2017 +0300
+
+    all the menu window gui
+
+commit 8a98f8d046e9feb956612c4ddd33f1d78d0cc268
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu May 4 14:52:04 2017 +0300
+
+    setting window don!
+
+commit bc86f29fcb041638cb1efd8c7ef2997365ae73cf
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Mon May 1 14:18:24 2017 +0300
+
+    main window
+
+commit 0e6d108b6d825497f3f61b239c1b9140a9d55e9a
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Mon May 1 00:54:48 2017 +0300
+
+    start of targil2
+
+commit d907f3abbb25dacc412eb1f89ae00a7d96e0d1a8
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun Apr 30 16:25:16 2017 +0300
+
+    Client-WPF
+
+commit ad07ed17ba27efa116f68d526a5640d113ee62bf
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Fri Apr 28 14:49:27 2017 +0300
+
+    final server
+
+commit 0648e63c65c561ae5802799d80f14e7cb7e8e7ef
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed Apr 26 15:50:48 2017 +0300
+
+    Only Close not finish in the MVC Project
+
+commit efa7ea96f4e230fc3f6fed10c3586cfbaba7d81a
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed Apr 26 12:22:29 2017 +0300
+
+    client
+
+commit f09918f33d5d28fe924f0d9c2056e031f82c23c9
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Tue Apr 25 19:05:14 2017 +0300
+
+    More Commands - Play , Join , List are Work
+
+commit 302d120337d3f88febdd2a5a0e96f76333762b09
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Tue Apr 25 16:58:38 2017 +0300
+
+    all project fix the solution
+
+commit b96d61d3c1da0b05bae90de921b121529e3e0688
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Mon Apr 24 20:57:27 2017 +0300
+
+    more Commands and Json
+
+commit d8fbf727a4743ba2e7fb56848a8061a362f44b6a
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Mon Apr 24 00:23:24 2017 +0300
+
+    more commands - solve
+
+commit 676cd5a5dc3540e218d3453b2af7ec38dd71d6bf
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun Apr 23 17:23:29 2017 +0300
+
+    i dun join command + json wait for mission A for continu
+
+commit 4c49dca8e9fd04b94ed0db33797b0e10b32f2853
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun Apr 23 16:50:49 2017 +0300
+
+    join command id do json
+
+commit 084380a642d24c3ee4bed75c7044b9389ad847a7
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun Apr 23 12:17:04 2017 +0300
+
+    first json i don in command start
+
+commit 931016e91ca53c2573a8ad34d106be99de1dee31
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Sun Apr 23 00:53:48 2017 +0300
+
+    more commands and new class IGame
+
+commit d8522b25fa482947ac02195a7dbfb1f9a651d6a4
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Fri Apr 21 15:49:05 2017 +0300
+
+    update Start Command and Join Command
+
+commit 6073685814d364d1419e3f3d3cea2b4df9a30bbf
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed Apr 19 19:09:19 2017 +0300
+
+    update
+
+commit c06a7d4c27bd9a2dc759b600300a597ab8807088
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Thu Apr 6 11:09:38 2017 +0300
+
+    more of the server but we need to fix a lot
+
+commit eff5be4c0fdbb0aad2cfcd53aad97fb9b1b17b92
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Wed Apr 5 00:10:35 2017 +0300
+
+    Server from the tirgul3
+
+commit 01d9c090f36034b42a4958967badfa46fb2391e8
+Author: אמיר ליכטר <lichtea3@macs.biu.ac.il>
+Date:   Tue Apr 4 16:21:48 2017 +0300
+
+    All The Interfacses for the missoin
